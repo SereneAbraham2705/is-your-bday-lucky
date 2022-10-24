@@ -4,3 +4,4 @@ This app takes the birhday date as well as a lucky number from the user, and dis
 TECHNOLOGIES USED: HTML, CSS, Javascript.
 
 CHECK OUT THE APP HERE:
+https://serene-bday-lucky.netlify.app/
